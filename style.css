@@ -1,6 +1,6 @@
 body,
 html {
-    background-color: #ff7526;
+    background-color: #01AAC1;
     width: 100%;
     height: 100%;
     margin: 0;
@@ -23,7 +23,7 @@ a {
 .top {
     height: 330px;
     position: relative;
-    background-image: url('http://farm5.staticflickr.com/4392/36948028740_a714120db8_b.jpg');
+    background-image: url("./藝風巷室內書.jpg");
     background-size: cover;
     /*   so that we can use this as contianer */
 }
@@ -48,7 +48,7 @@ a {
 .top .tag {
     width: 25px;
     height: 50px;
-    background-color: #ff7526;
+    background-color: #78C2C3;
     float: right;
     margin-right: 20px;
 }
@@ -56,7 +56,7 @@ a {
 .cirButton {
     width: 50px;
     height: 50px;
-    background-color: #ff7526;
+    background-color: #78C2C3;
     border-radius: 50%;
     position: absolute;
     right: 30px;
@@ -97,13 +97,13 @@ a {
 }
 
 .btnWebsite {
-    background-color: #ff7526;
+    background-color: #78C2C3;
     color: white;
     transition: 0.5s;
 }
 
 .btnWebsite:hover {
-    background-color: #ff9860;
+    background-color: #3F6699;
 }
 
 .btnNews {
